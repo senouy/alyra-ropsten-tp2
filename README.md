@@ -84,7 +84,7 @@ truffle test
 	
 ## Rapport d'utilisation du gaz
 
-![alt text](https://github.com/senouy/alyra-ropsten-tp2/img-gas-reporter.jpg?raw=true)
+![alt text](https://github.com/senouy/alyra-ropsten-tp2/blob/main/img-gas-reporter.jpg?raw=true)
 
 ## License
 
