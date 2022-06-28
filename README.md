@@ -17,6 +17,8 @@ Installer les dependances du projet puis lancer les testsr.
 ```sh
 cd alyra-ropsten-tp2
 npm i
+npm install @openzeppelin/test-helpers @openzeppelin/contracts @truffle/hdwallet-provider dotenv
+npm install --save-dev eth-gas-reporter
 truffle test
 ```
 
@@ -79,6 +81,10 @@ truffle test
     - Changement du workflow status sur la fin de la phase d'ajout de proposition
     - Changement du workflow status sur le commencement de la phase de vote
     - Changement du workflow status sur la fin de la phase de vote
+	
+## Rapport d'utilisation du gaz
+
+![alt text](https://github.com/senouy/alyra-ropsten-tp2/img-gas-reporter.jpg?raw=true)
 
 ## License
 
